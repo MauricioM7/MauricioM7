@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MauricioM7, a 2ASIR student
 
-<!---
-MauricioM7/MauricioM7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Hola! 👋 Soy Mauricio
+👨‍💻 Sobre mí
+Soy estudiante de 2 ASIR en CIFP VILLA DE AGUIMES.
+
+📫 ¿Cómo contactarme?
+Email: maurimoletta9@gmail.com
